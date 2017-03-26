@@ -1,0 +1,22 @@
+{
+  "name": "vue-uikit-starter",
+  "description": "A basic starting point for using vue.js and uikit, powered by laravel-mix",
+  "version": "1.0.0",
+  "author": "Askaoru <askaoru04@gmail.com>",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules",
+    "watch": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --progress --hide-modules",
+    "watch-poll": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --watch --watch-poll --progress --hide-modules",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "uikit": "^3.0.0-beta.18",
+    "vue": "^2.2.1"
+  },
+  "devDependencies": {
+    "cross-env": "^3.2.4",
+    "laravel-mix": "^0.8.3"
+  }
+}
