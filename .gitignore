@@ -1,6 +1,8 @@
 .DS_Store
 hot
 dist/
+images/
 node_modules/
 npm-debug.log
 yarn-error.log
+mix-manifest.json
