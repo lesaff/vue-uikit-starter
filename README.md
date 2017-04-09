@@ -26,10 +26,7 @@ bundling assets, copying files, versioning so much easier and cleaner!
 `$ npm run hot`
 4) Start developing!
 
-
-# Note
-Currently this package is using uikit version 3.0.0-Beta.18 and it does not yet have sass support.  
-This project is a very basic starting point on how uikit can be integrated with vue.js app by utilizing laravel mix.  
+This is a very basic starting point on how uikit can be integrated with vue.js app by utilizing laravel mix.  
 It is not required for you to be using the whole laravel php framework for this to work!  
 
 And if you need a much better integration between uikit and vue, you should check out [vuikit](https://github.com/vuikit/vuikit).
