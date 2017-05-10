@@ -12,11 +12,11 @@
   },
   "dependencies": {
     "jquery": "^3.2.1",
-    "uikit": "^3.0.0-beta.20",
-    "vue": "^2.2.6"
+    "uikit": "^3.0.0-beta.22",
+    "vue": "^2.3.2"
   },
   "devDependencies": {
     "cross-env": "^3.2.4",
-    "laravel-mix": "^0.10.0"
+    "laravel-mix": "^0.11.4"
   }
 }
