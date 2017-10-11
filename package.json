@@ -13,13 +13,13 @@
         "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
     },
     "dependencies": {
-        "jquery": "^3.2",
-        "uikit": "^3.0",
-        "vue": "^2.4",
+        "jquery": "^3.2.1",
+        "uikit": "^3.0.0-beta.30",
+        "vue": "^2.4.4",
         "vue-router": "^2.7.0"
     },
     "devDependencies": {
-        "cross-env": "^5.0.1",
-        "laravel-mix": "^1.4"
+        "cross-env": "^5.0.5",
+        "laravel-mix": "^1.5.0"
     }
 }
